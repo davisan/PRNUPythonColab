@@ -3,7 +3,7 @@ Please read the copyright notice located on the readme file (README.md).
 """
 import numpy as np
 from scipy import special
-import src.Filter as Ft
+import PRNUPythonColab.src.Filter as Ft
 
 
 def crosscorr(array1, array2):

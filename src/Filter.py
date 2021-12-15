@@ -4,7 +4,7 @@ Please read the copyright notice located on the readme file (README.md).
 import cv2 as cv
 import numpy as np
 from scipy import signal
-import src.Functions as Fu
+import PRNUPythonColab.src.Functions as Fu
 
 
 def Threshold(y, t):

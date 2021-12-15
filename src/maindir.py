@@ -1,7 +1,7 @@
 """
 Please read the copyright notice located on the readme file (README.md).    
 """
-import src.Functions as Fu
+import PRNUPythonColab.src.Functions as Fu
 import numpy as np
 from scipy import special
 
